@@ -311,4 +311,4 @@ with tab_banca:
 3. **Salve como:** `waku_score.py` (lembre-se de mudar o tipo para "Todos os arquivos")
 4. **Use este arquivo** para fazer o deploy no Streamlit
 
-Este é o código completo e final do Waku Score com todas as funcionalidades! 🚀
+# Este é o código completo e final do Waku Score com todas as funcionalidades! 
