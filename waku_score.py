@@ -1,3 +1,1 @@
-import streamlit as st
-
-st.image("https://raw.githubusercontent.com/Rafael26Utah/Waku-App/main/logo.jpg", use_container_width=True)
+st.image("images/logo.jpg", use_container_width=True)
